@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="/favicon.ico">
@@ -12,7 +11,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link href="/src/ie10-viewport-bug-workaround.css" rel="stylesheet">
     <link href="/src/starter-template.css" rel="stylesheet">
-    <link href="/src/style.css">
+    <link href="/src/style.css" rel="stylesheet">
     <!--[if lt IE 9]><script src="/src/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="/src/ie-emulation-modes-warning.js"></script>
     <!--[if lt IE 9]>
@@ -41,25 +40,20 @@
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div><!--/.nav-collapse -->
-    </div>
+    </div><!-- /.container -->
 </nav>
 
 <div class="container">
-
     <div class="starter-template">
         <h1>Bootstrap starter template</h1>
         <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
     </div>
-
 </div><!-- /.container -->
 
-
-<!-- Bootstrap core JavaScript
-================================================== -->
-<!-- Placed at the end of the document so the pages load faster -->
+<!-- Bootstrap core JavaScript -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
 <script src="/src/ie10-viewport-bug-workaround.js"></script>
+    
 </body>
 </html>
