@@ -27,3 +27,4 @@ $pageOgImage = '/ogimg.png';
 
 <body>
 <?php require_once '_menu.php';?>
+<div class="container">
