@@ -1,3 +1,7 @@
+<?php
+$pageTitle='Title';
+$pageDescription='Description';
+?>
 <?php require_once '_top.php';?>
 <div class="container">
     <div class="starter-template">
