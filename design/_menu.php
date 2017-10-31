@@ -14,7 +14,7 @@
                 <li class="active"><a href="#">Home</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#contact">Contact</a></li>
-                <li><a href="/editor.php" target="_blank">Editor</a></li>
+                <li><a href="/design/editor.php" target="_blank">Editor</a></li>
             </ul>
         </div><!--/.nav-collapse -->
     </div><!-- /.container -->

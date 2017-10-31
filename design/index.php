@@ -1,6 +1,6 @@
 <?php
-$pageTitle='Title';
-$pageDescription='Description';
+$pageTitle = 'Главная старница';
+$pageDescription = 'Description '.$pageTitle;
 ?>
 <?php require_once '_top.php';?>
 <div class="row">
