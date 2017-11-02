@@ -2,7 +2,7 @@
 $pageTitle = 'Обо мне';
 $pageDescription = 'Description '.$pageTitle;
 ?>
-<?php require_once '_top.php';?>
+<?php require_once 'layouts/_top.php';?>
 <h1><?=$pageTitle?></h1>
 <p><?=$pageDescription?></p>
-<?php require_once '_bottom.php';?>
+<?php require_once 'layouts/_bottom.php';?>

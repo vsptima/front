@@ -2,7 +2,7 @@
 $pageTitle = 'Главная старница';
 $pageDescription = 'Description '.$pageTitle;
 ?>
-<?php require_once '_top.php';?>
+<?php require_once 'layouts/_top.php';?>
 <div class="row">
     <div class="col-md-9 main">
         <h1>Bootstrap starter template</h1>
@@ -25,7 +25,7 @@ $pageDescription = 'Description '.$pageTitle;
 
     </div>
     <div class="col-md-3 sidebar">
-        <?php require_once '_sidebar_index.php';?>
+        <?php require_once 'layouts/_sidebar_index.php';?>
     </div>
 </div>
-<?php require_once '_bottom.php';?>
+<?php require_once 'layouts/_bottom.php';?>
