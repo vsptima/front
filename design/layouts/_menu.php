@@ -11,18 +11,18 @@
         </div>
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Feedback</a></li>
+                <li class="active"><a href="index.php">Home</a></li>
+                <li><a href="about.php">About</a></li>
+                <li><a href="feedback.php">Feedback</a></li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Gallery</a></li>
-                        <li><a href="#">Hobby</a></li>
-                        <li><a href="#">Jargon</a></li>
-                        <li><a href="#">Skill</a></li>
-                        <li><a href="#">Term</a></li>
-                        <li><a href="#">Github</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="hobby.php">Hobby</a></li>
+                        <li><a href="jargon.php">Jargon</a></li>
+                        <li><a href="skill.php">Skill</a></li>
+                        <li><a href="terms.php">Term</a></li>
+                        <li><a href="github.php">Github</a></li>
                     </ul>
                 </li>
             </ul>
@@ -30,7 +30,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Edit <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Editor</a></li>
+                        <li><a href="editor.php">Editor</a></li>
                     </ul>
                 </li>
             </ul>
