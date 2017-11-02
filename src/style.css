@@ -5,3 +5,12 @@
 .img-thumbnail {
     border-radius: 0px;
 }
+.form-message {
+    margin: 20px 0;
+}
+
+@media (max-width: 762px) {
+    form label {
+        margin-top:15px;
+    }
+}
