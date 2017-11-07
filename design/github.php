@@ -8,6 +8,6 @@ $pageDescription = 'Description '.$pageTitle;
         <p><?=$pageDescription?></p>
     </div>
     <div class="col-md-3 sidebar">
-        <?php require_once 'layouts/_sidebar_index.php';?>
+        <?php require_once 'layouts/sidebar_github.php';?>
     </div>
 <?php require_once 'layouts/_bottom.php';?>
