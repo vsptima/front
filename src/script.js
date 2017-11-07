@@ -29,4 +29,7 @@ jQuery(document).on('ready',function () {
     linkHasUrl.parent('.navbar-nav').addClass('active');
     linkHasUrl.parent('li').addClass('active');
     linkHasUrl.addClass('active');
+    // --------------------------------------------
+    console.log('dataArray',dataArray);
+    console.log('dataObject',dataObject);
 });
