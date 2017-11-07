@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <item>
+        <title>HTML</title>
+        <content><![CDATA[
+<p>Easily add a heading container to your panel with <code>.panel-heading</code>. You may also include any <code>&lt;h1&gt;</code>-<code>&lt;h6&gt;</code> with a <code>.panel-title</code> class to add a pre-styled heading. However, the font sizes of <code>&lt;h1&gt;</code>-<code>&lt;h6&gt;</code> are overridden by <code>.panel-heading</code>.</p>
+]]></content>
+    </item>
+    <item>
+        <title>CSS</title>
+        <content><![CDATA[CSS content]]></content>
+    </item>
+    <item>
+        <title>PHP</title>
+        <content><![CDATA[PHP content]]></content>
+    </item>
+    <item>
+        <title>JavaScript</title>
+        <content><![CDATA[JavaScript content]]></content>
+    </item>
+    <item>
+        <title>Shell</title>
+        <content><![CDATA[Shell content]]></content>
+    </item>
+    <item>
+        <title>Bootstrap</title>
+        <content><![CDATA[Bootstrap content]]></content>
+    </item>
+    <item>
+        <title>Data</title>
+        <content><![CDATA[Data content]]></content>
+    </item>
+</root>
