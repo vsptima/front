@@ -2,6 +2,7 @@
 на примере создания личной страницы
 ---
 [http://front.vspds.ru/](http://front.vspds.ru/)
+---
 [http://front.vspds.ru/design/](http://front.vspds.ru/design/)
 ---
 * Bootstrap 3
