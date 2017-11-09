@@ -6,9 +6,9 @@ $pageDescription = 'Description '.$pageTitle;
 <div class="row">
     <div class="col-md-9 main">
         <h1>Bootstrap starter template</h1>
+        <?php require_once 'layouts/_carousel.php';?>
         <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
         <p><strong>Возглавлявший в свое время РАО ЕЭС Анатолий Чубайс высказался о проблемах электроэнергетики и напророчил скорый дефицит электричества. Чубайс явно выступил лоббистом корпорации, которую возглавляет сейчас &ndash; Роснано. Однако, с другой стороны, его слова действительно являются важным предостережением &ndash; в первую очередь о росте цен.</strong></p>
-
         <p>Россия уже через шесть&ndash;семь лет может столкнуться с новым энергетическим кризисом, заявил <span style="color: red" class="glava">глава</span> Роснано Анатолий Чубайс в интервью <a href="https://rg.ru/" style="color: rgb(0, 0, 0);" target="_blank">&laquo;Российской газете&raquo;</a>. Чтобы избежать этого, нужно вводить в строй новые электростанции (генерирующие мощности), заявляет Чубайс.</p>
 
         <ol class="gad">
