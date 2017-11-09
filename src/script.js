@@ -32,4 +32,10 @@ jQuery(document).on('ready',function () {
     // --------------------------------------------
     console.log('dataArray',dataArray);
     console.log('dataObject',dataObject);
+    // --------------------------------------------
+    jQuery('.grid').masonry({
+        // options
+        itemSelector: '.grid-item',
+        //columnWidth: 200
+    });
 });
