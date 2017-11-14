@@ -8,7 +8,7 @@ $arrTerms = file('data/term.txt');
     <p><?=$pageDescription?></p>
     <div class="row grid">
         <?php foreach($arrTerms as $val):?>
-            <?php $term = explode(":",$val); ?>
+            <?php $term = explode("#",$val); ?>
             <div class="col-md-4 grid-item">
                 <div class="panel panel-default">
                     <div class="panel-heading"><strong><?=$term[0];?></strong></div>
