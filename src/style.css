@@ -9,6 +9,11 @@
     margin: 20px 0;
 }
 
+.panel
+{
+    border-radius: 0px;
+}
+
 #cke_editor1{
     margin-top: 25px;
 }
