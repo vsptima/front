@@ -12,7 +12,9 @@ $arrGallery = require_once 'data/gallery.php';
                 <div class="panel panel-default">
                     <div class="panel-body">
                         <div class="wrap-img">
-                            <img class="img-responsive" src="<?= $val['url'];?>" alt="<?= $val['title'];?>">
+                            <a class="group1" href="<?= $val['url'];?>">
+                                <img class="img-responsive" src="<?= $val['url'];?>" alt="<?= $val['title'];?>">
+                            </a>
                         </div>
                     </div>
                 </div>
