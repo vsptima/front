@@ -1,12 +1,27 @@
 [
   {
-    "url":"///",
-    "title":"///",
-    "description":"///"
+    "url":"https://github.com/vsptima/front",
+    "title":"Front",
+    "description":"PHP-репозиторий front"
   },
   {
-    "url":"///",
-    "title":"///",
-    "description":"///"
+    "url":"https://github.com/vsptima/exam.simple",
+    "title":"Exam.simple",
+    "description":"PHP-репозиторий exam.simple"
+  },
+  {
+    "url":"https://github.com/vsptima/simple",
+    "title":"Simple",
+    "description":"PHP-репозиторий simple"
+  },
+  {
+    "url":"https://github.com/vsptima/mysql",
+    "title":"MySQL",
+    "description":"Репозиторий mysql"
+  },
+  {
+    "url":"https://github.com/vsptima/empty.native",
+    "title":"Empty.native",
+    "description":"Репозиторий empty.native"
   }
 ]
