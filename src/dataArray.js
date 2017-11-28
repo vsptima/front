@@ -1,10 +1,7 @@
-/**
- * Created by papasha on 07.11.2017.
- */
 var dataArray = [
-    '111',
-    '222',
-    '333',
-    '444',
-    '555'
+    'git.jpg',
+    'html_css.jpg',
+    'netbeans.jpg',
+    'phpstorm.jpg',
+    'php.jpg'
 ];

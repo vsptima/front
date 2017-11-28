@@ -30,8 +30,8 @@ jQuery(document).on('ready',function () {
     linkHasUrl.parent('li').addClass('active');
     linkHasUrl.addClass('active');
     // --------------------------------------------
-    console.log('dataArray',dataArray);
-    console.log('dataObject',dataObject);
+    console.log('dataArray');
+    console.log('dataObject');
     // --------------------------------------------
     jQuery('.grid').masonry({
         // options
