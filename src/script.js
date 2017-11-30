@@ -29,10 +29,7 @@ jQuery(document).on('ready',function () {
     linkHasUrl.parent('.navbar-nav').addClass('active');
     linkHasUrl.parent('li').addClass('active');
     linkHasUrl.addClass('active');
-    // --------------------------------------------
-    console.log('dataArray');
-    console.log('dataObject');
-    // --------------------------------------------
+
     jQuery('.grid').masonry({
         // options
         itemSelector: '.grid-item',
