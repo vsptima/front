@@ -5,7 +5,8 @@ $pageDescription = 'Description '.$pageTitle;
 <?php require_once 'layouts/_top.php';?>
     <div class="col-md-9 main">
         <h1><?=$pageTitle?></h1>
-        <form class="form-horizontal">
+        <div id="succes"></div>
+        <form id="foo" class="form-horizontal" method="post" action="/handle_feedback.php">
             <div class="row">
                 <div class="col-md-6">
                     <label for="email">Your name</label>
