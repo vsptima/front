@@ -1,7 +1,7 @@
 jQuery(document).on('ready',function () {
 
     var site = location.origin; // http://front.vspds.ru
-    var imgTools = site + "/design/img/tools/"; // http://front.vspds.ru/design/img/tools/
+    var imgTools = site + "/img/tools/"; // http://front.vspds.ru/design/img/tools/
     var tools = "";
 
     dataArray.forEach(function (item, i, arr) {
