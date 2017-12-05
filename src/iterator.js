@@ -6,7 +6,8 @@ jQuery(document).on('ready',function () {
 
     dataArray.forEach(function (item, i, arr) {
         var pathToImg = imgTools + item;
-        var imgTag = '<img style="width: 100px;" class="img-thumbnail" src="' + pathToImg + '" alt="">';
+        // var imgTag = '<img style="width: 100px;" class="img-thumbnail" src="' + pathToImg + '" alt="">';
+        var imgTag = '<div class="col-md-3"><div class="panel panel-default"><div class="panel-body"><img class="img-responsive" src="' + pathToImg + '" alt=""></div></div></div>';
         tools += imgTag;
     });
 
@@ -16,9 +17,16 @@ jQuery(document).on('ready',function () {
 
     // Vasin, Semyon, 26.06.1999, male
     var realStr = '';
+    var fio = '';
+    var result = '';
     for (var key in dataObject) {
-        var str = dataObject[key];
-        realStr += dataObject[key] + ', ';
+        if (key == 'lastName' || key == 'firstName') {
+            fio += dataObject[key]+' ';
+        } else {
+            var str = dataObject[key];
+            realStr += dataObject[key] + ', ';
+        }
+        result = fio+', '+realStr;
     }
-    jQuery('#human-object').html('<p style="margin-top: 15px;">'+ realStr +'</p>');
+    jQuery('#human-object').html('<p style="margin-top: 15px;">'+ result +'</p>');
 });

@@ -1,7 +1,7 @@
 </div><!-- /.container -->
 <div class="container">
     <hr>
-    <div id="img-array"></div>
+    <div class="row" id="img-array"></div>
     <div id="human-object"></div>
 </div>
 <!-- Bootstrap core JavaScript -->
