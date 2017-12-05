@@ -1,1 +1,25 @@
-<img class="img-thumbnail" src="./img/hobby.jpg">
+<p style="line-height: 1.75;">
+Civilization 5,
+Anno 2205,
+Anno 1703,
+Anno 1404,
+Call of Duty 1,2,3,United Offensive, World at War, Modern Warfare 1-3
+Battlefield 1942, 1969, 2,3,4, 1,
+Диверсант, в тылу врага 1-2,
+Silent Hunter 2-5,
+World of Tanks, World of Warplanes, World of Warships,
+South Park: Stick of Truth, South Park: The Fractured But Whole,
+Borderland 2, Planet Annihilation,
+Dawn of War: Soulstorm, Dawn of War 2, Dawn of War 2: Chaos Rising, Dawn of War 2: Retribution,
+Need For Speed: Most Wanted,
+Asphalt 8,
+Pacific Storm, Pacific Storm: Allies,
+Worms Armageddon,
+Aliens vs Predator 2010,
+Star Wars,
+Portal 1-2,
+From the Depths,
+Garry's Mod,
+Dangerous Water,
+Darksiders 2
+</p>
