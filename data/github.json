@@ -2,26 +2,26 @@
   {
     "url":"https://github.com/vsptima/front",
     "title":"Front",
-    "description":"PHP-репозиторий front"
+    "description":"Репозиторий github по сайту front.vspds.ru, в котором содержатся все файлы данного проекта, который находится в разработке."
   },
   {
     "url":"https://github.com/vsptima/exam.simple",
     "title":"Exam.simple",
-    "description":"PHP-репозиторий exam.simple"
+    "description":"Репозиторий github по сделанному сайту exam.simple.vspds.ru, в котором содержатся все файлы данного проекта"
   },
   {
     "url":"https://github.com/vsptima/simple",
     "title":"Simple",
-    "description":"PHP-репозиторий simple"
+    "description":"Репозиторий github по сделанному сайту front.vspds.ru, в котором содержатся все файлы данного проекта."
   },
   {
     "url":"https://github.com/vsptima/mysql",
     "title":"MySQL",
-    "description":"Репозиторий mysql"
+    "description":"Хранилище нарaботок по MySQL"
   },
   {
     "url":"https://github.com/vsptima/empty.native",
     "title":"Empty.native",
-    "description":"Репозиторий empty.native"
+    "description":"Репозиторий github по сайту empty-native."
   }
 ]
