@@ -8,9 +8,24 @@ $games = $pdo->query("SELECT * FROM games"); // PDO::FETCH_ASSOC
     <div class="col-md-9 main">
         <h1><?=$pageTitle?></h1>
         <p><?=$pageDescription?></p>
-        <?php foreach ($games as $game) : ?>
-            <p><?=$game['name']?></p>
-        <?php endforeach; ?>
+
+        <div class="row">
+            <?php foreach ($games as $game) : ?>
+                <div class="col-md-4">
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            <a href="/games/waw.html"><?=$game['name']?></a>
+                        </div>
+                        <div class="panel-body">
+                            <a href="/storage/pictures/waw-mid.jpg" class="group1 cboxElement">
+                                <img class="img-thumbnail" src="<?=$game['description']?>" alt="<?=$game['name']?>">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            <?php endforeach; ?>
+        </div>
+
     </div>
     <div class="col-md-3 sidebar">
         <?php require_once 'layouts/sidebar_hobby.php';?>
