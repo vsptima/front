@@ -6,8 +6,13 @@ jQuery(document).on('ready',function () {
 
     dataArray.forEach(function (item, i, arr) {
         var pathToImg = imgTools + item;
-        // var imgTag = '<img style="width: 100px;" class="img-thumbnail" src="' + pathToImg + '" alt="">';
-        var imgTag = '<div class="col-md-3"><div class="panel panel-default"><div class="panel-body"><img class="img-responsive" src="' + pathToImg + '" alt=""></div></div></div>';
+        var imgTag = '<div class="col-md-2">' +
+            '<div class="panel panel-default">' +
+            '<div class="panel-body">' +
+            '<img class="img-responsive" src="' + pathToImg + '" alt="">' +
+            '</div>' +
+            '</div>' +
+            '</div>';
         tools += imgTag;
     });
 
@@ -28,5 +33,6 @@ jQuery(document).on('ready',function () {
         }
         result = fio+', '+realStr;
     }
-    jQuery('#human-object').html('<p style="margin-top: 15px;">'+ result +'</p>');
+    var siteUrl = '<a href="'+location.origin+'">'+location.host+'</a>';
+    jQuery('#human-object').html('<p style="margin-top: 15px;">&copy; '+ siteUrl + ' &nbsp; ' + result +' 2017</p>');
 });

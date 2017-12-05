@@ -5,8 +5,10 @@ var dataObject = {
     gender: 'male',
 };
 var dataArray = [
-    'git.jpg',
-    'html_css.jpg',
     'php.jpg',
-    'jquery.jpg'
+    'jquery.jpg',
+    'html_css.jpg',
+    'git.jpg',
+    'mysql.jpg',
+    'bootstrap.jpg'
 ];
