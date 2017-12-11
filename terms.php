@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Термины';
-$pageDescription = 'Description '.$pageTitle;
+$pageDescription = 'Некоторые термины и определения из профессиональной деятельности';
 $arrTerms = file('data/term.txt');
 ?>
 <?php require_once 'layouts/_top.php';?>

@@ -1,27 +1,22 @@
 [
   {
-    "url":"https://github.com/vsptima/front",
-    "title":"Front",
-    "description":"Репозиторий github по сайту front.vspds.ru, в котором содержатся все файлы данного проекта, который находится в разработке."
+    "url":"https://github.com/vsptima/simple",
+    "title":"Simple",
+    "description":"Простой сайт на PHP с использованием фреймворка Bootstrap и хранением данных в xml/json/csv. Есть Issue, Wiki, YouTrack"
   },
   {
     "url":"https://github.com/vsptima/exam.simple",
     "title":"Exam.simple",
-    "description":"Репозиторий github по сделанному сайту exam.simple.vspds.ru, в котором содержатся все файлы данного проекта"
-  },
-  {
-    "url":"https://github.com/vsptima/simple",
-    "title":"Simple",
-    "description":"Репозиторий github по сделанному сайту front.vspds.ru, в котором содержатся все файлы данного проекта."
+    "description":"Fork-репозиторий. Это хранилище-экзамен для повторения темы из Simple. Работа с pull-request."
   },
   {
     "url":"https://github.com/vsptima/mysql",
     "title":"MySQL",
-    "description":"Хранилище нарaботок по MySQL"
+    "description":"Работа с запросами к базе данных Employees. Строковые и математические функции. JOIN-ны. Хранилище нарaботок по MySQL. Fork-репозиторий. Работа с pull-request."
   },
   {
-    "url":"https://github.com/vsptima/empty.native",
-    "title":"Empty.native",
-    "description":"Репозиторий github по сайту empty-native."
+    "url":"https://github.com/vsptima/front",
+    "title":"Front",
+    "description":"Расширенная frontend-работа: jquery, ajax, консоль Google Chrome.Данных в sqlite/xml/json/csv. Есть Issue, Wiki, YouTrack"
   }
 ]

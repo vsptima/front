@@ -1,1 +1,1 @@
-<img class="img-thumbnail" src="./img/about.jpg">
+<p><img class="img-thumbnail" src="/sam.jpg" alt="" title="it's me"></p>
