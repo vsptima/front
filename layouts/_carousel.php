@@ -1,30 +1,15 @@
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-    <!-- Indicators -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-    </ol>
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
         <div class="item active">
-            <img src="./data/slide_1.svg" alt="...">
-            <div class="carousel-caption">
-                First Slide
-            </div>
+            <img src="../img/carousel/developer_background.png" alt="...">
         </div>
         <div class="item">
-            <img src="./data/slide_2.svg" alt="...">
-            <div class="carousel-caption">
-                Second Slide
-            </div>
+            <img src="../img/carousel/yandex_map_Dolgoprudniy.png" alt="...">
         </div>
         <div class="item">
-            <img src="./data/slide_3.svg" alt="...">
-            <div class="carousel-caption">
-                Third Slide
-            </div>
+            <img src="../img/carousel/google_map_College.png" alt="...">
         </div>
     </div>
 
@@ -37,4 +22,5 @@
         <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
+
 </div>
