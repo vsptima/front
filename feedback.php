@@ -10,16 +10,16 @@ $pageDescription = 'Description '.$pageTitle;
             <div class="row">
                 <div class="col-md-6">
                     <label for="email">Your name</label>
-                    <input type="text" class="form-control" name="name" id="name" placeholder="ваше имя">
+                    <input required type="text" class="form-control" name="name" id="name" placeholder="ваше имя">
                 </div>
                 <div class="col-md-6">
                     <label for="email">Your email address</label>
-                    <input type="email" class="form-control" name="email" id="email" placeholder="ваша электронная почта">
+                    <input required type="email" class="form-control" name="email" id="email" placeholder="ваша электронная почта">
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-12 form-message">
-                    <textarea class="form-control" rows="10" name="message"></textarea>
+                    <textarea required class="form-control" rows="10" name="message"></textarea>
                 </div>
             </div>
             <div class="row">
