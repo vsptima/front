@@ -22,13 +22,7 @@ jQuery(document).on('ready',function () {
         console.log( index + ": " + text );
     });
     // ---------------------------------------------
-    var urlClear = location.pathname.split('.')[0];
-    urlClear = urlClear.split('/')[2];
-    var linkHasUrl = jQuery('a[href*="'+urlClear+'"]');
-    linkHasUrl.parents('.dropdown').addClass('active');
-    linkHasUrl.parent('.navbar-nav').addClass('active');
-    linkHasUrl.parent('li').addClass('active');
-    linkHasUrl.addClass('active');
+
 
     jQuery('.grid').masonry({
         // options

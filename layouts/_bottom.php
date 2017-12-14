@@ -12,6 +12,7 @@
 <script src="/src/ie10-viewport-bug-workaround.js"></script>
 <script src="/src/ajax.js"></script>
 <script src="/src/data.js"></script>
+<script src="/src/menu.js"></script>
 <script src="/src/script.js"></script>
 <script src="/src/iterator.js"></script>
 </body>
