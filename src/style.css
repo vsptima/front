@@ -1,3 +1,4 @@
+
 #carousel-example-generic {
     margin-top: 25px;
 }
@@ -33,5 +34,8 @@
     }
     .wrap-img {
         height: auto;
+    }
+    #cke_editor1{
+        margin-top: 25px;
     }
 }
