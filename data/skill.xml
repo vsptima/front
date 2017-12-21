@@ -3,31 +3,43 @@
     <item>
         <title>HTML</title>
         <content><![CDATA[
-<p>Easily add a heading container to your panel with <code>.panel-heading</code>. You may also include any <code>&lt;h1&gt;</code>-<code>&lt;h6&gt;</code> with a <code>.panel-title</code> class to add a pre-styled heading. However, the font sizes of <code>&lt;h1&gt;</code>-<code>&lt;h6&gt;</code> are overridden by <code>.panel-heading</code>.</p>
+native-верстка, boostrap3-верстка, mobile-верстка
 ]]></content>
     </item>
     <item>
         <title>CSS</title>
-        <content><![CDATA[CSS content]]></content>
+        <content><![CDATA[
+CSS3, Boostrap 3, media-запросы
+]]></content>
     </item>
     <item>
         <title>PHP</title>
-        <content><![CDATA[PHP content]]></content>
+        <content><![CDATA[
+основные php-функции, азы Yii1
+]]></content>
     </item>
     <item>
         <title>JavaScript</title>
-        <content><![CDATA[JavaScript content]]></content>
+        <content><![CDATA[
+азы jQuery, AJAX, Masonry, Colorbox
+]]></content>
     </item>
     <item>
         <title>Shell</title>
-        <content><![CDATA[Shell content]]></content>
+        <content><![CDATA[
+перемещение, копирование, zip-ование, поиск
+]]></content>
     </item>
     <item>
         <title>Bootstrap</title>
-        <content><![CDATA[Bootstrap content]]></content>
+        <content><![CDATA[
+основные приемы работы
+]]></content>
     </item>
     <item>
         <title>Data</title>
-        <content><![CDATA[Data content]]></content>
+        <content><![CDATA[
+xml, csv, json, SQLite, MySQL
+]]></content>
     </item>
 </root>
