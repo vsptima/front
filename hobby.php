@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Хобби';
-$pageDescription = 'Компьютерные игры';
+$pageDescription = 'Мое основное хобби это компьютерные игры';
 $pdo = new PDO('sqlite:data/hobby');
 $games = $pdo->query("SELECT * FROM games"); // PDO::FETCH_ASSOC
 ?>

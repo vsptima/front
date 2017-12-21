@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Фотогаллерея';
-$pageDescription = 'Подборка фотографий разных лет';
+$pageDescription = 'Подборка моих фотографий разных лет';
 $arrGallery = require_once 'data/gallery.php';
 ?>
 <?php require_once 'layouts/_top.php';?>

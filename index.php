@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Главная страница';
-$pageDescription = 'Description '.$pageTitle;
+$pageDescription = 'Персональный сайт начинающего web-разработчика из города Долгопрудный';
 ?>
 <?php require_once 'layouts/_top.php';?>
 <div class="row">

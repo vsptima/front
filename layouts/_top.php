@@ -1,6 +1,6 @@
 <?php
 $pageAuthor = 'Frontender';
-$pageOgImage = '/ogimg.png';
+$pageOgImage = '/img/ogimg.png';
 ?>
 <!DOCTYPE html>
 <html lang="en">

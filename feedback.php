@@ -1,6 +1,6 @@
 <?php
 $pageTitle = 'Обратная связь';
-$pageDescription = 'Description '.$pageTitle;
+$pageDescription = 'С этой страницы можно отправить сообщение с помощью AJAX';
 ?>
 <?php require_once 'layouts/_top.php';?>
     <div class="col-md-9 main">
