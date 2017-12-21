@@ -42,4 +42,10 @@ CSS3, Boostrap 3, media-запросы
 xml, csv, json, SQLite, MySQL
 ]]></content>
     </item>
+    <item>
+        <title>Google Chrome</title>
+        <content><![CDATA[
+отладка в консоли, навигация по элементам
+]]></content>
+    </item>
 </root>
